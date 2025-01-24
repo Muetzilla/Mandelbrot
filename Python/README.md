@@ -3,4 +3,4 @@ Inspiration for this approach: [How to Make a Mandelbrot Zoom, explained in 7 mi
 
 Example image:
 
-![Example Render]([http://url/to/img.png?raw=true](https://raw.githubusercontent.com/Muetzilla/Mandelbrot/refs/heads/main/Python/exampleRender.png))
+![Example Render](https://raw.githubusercontent.com/Muetzilla/Mandelbrot/refs/heads/main/Python/exampleRender.png)
